@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>G Force Technologies - Business Computer Support</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        header, footer { background-color: #0d145b; color: white; padding: 10px 0; text-align: center; }
+        nav ul { list-style-type: none; padding: 0; }
+        nav ul li { display: inline; margin: 0 15px; }
+        nav ul li a { color: white; text-decoration: none; }
+        main { padding: 20px; }
+        article { margin-bottom: 20px; }
+        footer div { margin-top: 10px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>G Force Technologies</h1>
+        <nav>
+            <ul>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="services">
+            <h2>Common IT Issues We Solve</h2>
+            <article>
+                <h3>1. Slow Computer Performance</h3>
+                <p>Scenario: A local marketing agency reports that their design team's computers have become sluggish, impacting productivity.</p>
+                <p>Our Solution: We perform comprehensive system diagnostics, upgrade hardware components, and optimize software configurations.</p>
+            </article>
+            <article>
+                <h3>2. Network Connectivity Problems</h3>
+                <p>Scenario: A small law firm experiences frequent internet outages and slow network speeds.</p>
+                <p>Our Solution: We assess the network and implement robust security measures to ensure stable connectivity.</p>
+            </article>
+            <article>
+                <h3>3. Software Compatibility Issues</h3>
+                <p>Scenario: A healthcare provider struggles with integrating new patient management software.</p>
+                <p>Our Solution: We facilitate smooth migration to compatible software solutions.</p>
+            </article>
+            <article>
+                <h3>4. Malware and Virus Infections</h3>
+                <p>Scenario: An e-commerce business discovers suspicious activity on their systems.</p>
+                <p>Our Solution: We identify and eliminate threats, implementing advanced security protocols.</p>
+            </article>
+            <article>
+                <h3>5. Account Management Challenges</h3>
+                <p>Scenario: A growing startup struggles with managing multiple user accounts.</p>
+                <p>Our Solution: We implement password management systems and best practices for account security.</p>
+            </article>
+            <article>
+                <h3>6. Hardware Failures</h3>
+                <p>Scenario: A financial services firm experiences a critical server failure.</p>
+                <p>Our Solution: We provide emergency hardware replacement and data recovery services.</p>
+            </article>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 G Force Technologies. All rights reserved.</p>
+        <div id="contact">
+            <h2>Contact Us</h2>
+            <p>Email: support@gforcetechnologies.com</p>
+            <p>Phone: (713) 555-1234</p>
+        </div>
+    </footer>
+</body>
+</html>
